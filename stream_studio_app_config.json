@@ -1,6 +1,6 @@
 {
     "obsStudioConfig": {
-        "audioCountLimit": 5,
+        "audioCountLimit": 20,
         "audioInputCaptureSourceCountLimit": 1,
         "audioInputCaptureSourceEnable": true,
         "audioOutputCaptureSourceCountLimit": 1,
@@ -11,11 +11,11 @@
         "cameraSourceEnable": true,
         "colorSourceCountLimit": 5,
         "colorSourceEnable": true,
-        "gifCountLimit": 5,
+        "gifCountLimit": 20,
         "gifSourceCountLimit": 5,
         "gifSourceEnable": true,
         "obsStudioCount": 3,
-        "pictureCountLimit": 1000,
+        "pictureCountLimit": 20,
         "pictureSlideSourceCountLimit": 3,
         "pictureSlideSourceEnable": true,
         "pictureSourceCountLimit": 10,
@@ -32,12 +32,12 @@
         "textSourceEnable": true,
         "uvcCameraSourceCountLimit": 5,
         "uvcCameraSourceEnable": false,
-        "videoCountLimit": 10,
+        "videoCountLimit": 20,
         "videoSourceCountLimit": 5,
         "videoSourceEnable": true
     },
     "obsStudioConfigPlus": {
-        "audioCountLimit": 5,
+        "audioCountLimit": 1000,
         "audioInputCaptureSourceCountLimit": 1,
         "audioInputCaptureSourceEnable": true,
         "audioOutputCaptureSourceCountLimit": 1,
@@ -48,7 +48,7 @@
         "cameraSourceEnable": true,
         "colorSourceCountLimit": 10,
         "colorSourceEnable": true,
-        "gifCountLimit": 5,
+        "gifCountLimit": 1000,
         "gifSourceCountLimit": 5,
         "gifSourceEnable": true,
         "obsStudioCount": -1,
@@ -69,7 +69,7 @@
         "textSourceEnable": true,
         "uvcCameraSourceCountLimit": 5,
         "uvcCameraSourceEnable": true,
-        "videoCountLimit": 10,
+        "videoCountLimit": 1000,
         "videoSourceCountLimit": 5,
         "videoSourceEnable": true
     }
