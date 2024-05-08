@@ -34,7 +34,10 @@
         "uvcCameraSourceEnable": false,
         "videoCountLimit": 20,
         "videoSourceCountLimit": 5,
-        "videoSourceEnable": true
+        "videoSourceEnable": true,
+        "playingVideoCountSameTime": 3,
+        "playingAudioCountSameTime": 6,
+        "playingPictureSliderCountSameTime": 3
     },
     "obsStudioConfigPlus": {
         "audioCountLimit": 1000,
@@ -71,6 +74,9 @@
         "uvcCameraSourceEnable": true,
         "videoCountLimit": 1000,
         "videoSourceCountLimit": 5,
-        "videoSourceEnable": true
+        "videoSourceEnable": true,
+        "playingVideoCountSameTime": 3,
+        "playingAudioCountSameTime": 6,
+        "playingPictureSliderCountSameTime": 3
     }
 }
