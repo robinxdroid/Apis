@@ -5,7 +5,7 @@
         "audioInputCaptureSourceEnable": true,
         "audioOutputCaptureSourceCountLimit": 1,
         "audioOutputCaptureSourceEnable": true,
-        "audioSourceCountLimit": 1,
+        "audioSourceCountLimit": 5,
         "audioSourceEnable": true,
         "cameraSourceCountLimit": 2,
         "cameraSourceEnable": true,
@@ -38,8 +38,8 @@
         "playingStreamCountSameTime": 2,
         "playingStreamServerCountSameTime": 2,
         "playingVideoCountSameTime": 3,
-        "playingAudioCountSameTime": 6,
-        "playingGifCountSameTime": 6,
+        "playingAudioCountSameTime": 3,
+        "playingGifCountSameTime": 4,
         "playingPictureSliderCountSameTime": 3
     },
     "obsStudioConfigPlus": {
@@ -48,7 +48,7 @@
         "audioInputCaptureSourceEnable": true,
         "audioOutputCaptureSourceCountLimit": 1,
         "audioOutputCaptureSourceEnable": true,
-        "audioSourceCountLimit": 1,
+        "audioSourceCountLimit": 5,
         "audioSourceEnable": true,
         "cameraSourceCountLimit": 5,
         "cameraSourceEnable": true,
@@ -81,8 +81,8 @@
         "playingStreamCountSameTime": 2,
         "playingStreamServerCountSameTime": 2,
         "playingVideoCountSameTime": 3,
-        "playingAudioCountSameTime": 6,
-        "playingGifCountSameTime": 6,
+        "playingAudioCountSameTime": 3,
+        "playingGifCountSameTime": 4,
         "playingPictureSliderCountSameTime": 3
     }
 }
