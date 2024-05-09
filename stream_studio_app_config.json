@@ -38,7 +38,7 @@
         "playingStreamCountSameTime": 2,
         "playingStreamServerCountSameTime": 2,
         "playingVideoCountSameTime": 3,
-        "playingAudioCountSameTime": 3,
+        "playingAudioCountSameTime": 5,
         "playingGifCountSameTime": 4,
         "playingPictureSliderCountSameTime": 3
     },
@@ -81,7 +81,7 @@
         "playingStreamCountSameTime": 2,
         "playingStreamServerCountSameTime": 2,
         "playingVideoCountSameTime": 3,
-        "playingAudioCountSameTime": 3,
+        "playingAudioCountSameTime": 5,
         "playingGifCountSameTime": 4,
         "playingPictureSliderCountSameTime": 3
     }
