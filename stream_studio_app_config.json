@@ -35,8 +35,11 @@
         "videoCountLimit": 20,
         "videoSourceCountLimit": 5,
         "videoSourceEnable": true,
+        "playingStreamCountSameTime": 2,
+        "playingStreamServerCountSameTime": 2,
         "playingVideoCountSameTime": 3,
         "playingAudioCountSameTime": 6,
+        "playingGifCountSameTime": 6,
         "playingPictureSliderCountSameTime": 3
     },
     "obsStudioConfigPlus": {
@@ -75,8 +78,11 @@
         "videoCountLimit": 1000,
         "videoSourceCountLimit": 5,
         "videoSourceEnable": true,
+        "playingStreamCountSameTime": 2,
+        "playingStreamServerCountSameTime": 2,
         "playingVideoCountSameTime": 3,
         "playingAudioCountSameTime": 6,
+        "playingGifCountSameTime": 6,
         "playingPictureSliderCountSameTime": 3
     }
 }
