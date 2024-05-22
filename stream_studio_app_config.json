@@ -40,7 +40,9 @@
         "playingVideoCountSameTime": 3,
         "playingAudioCountSameTime": 5,
         "playingGifCountSameTime": 4,
-        "playingPictureSliderCountSameTime": 3
+        "playingPictureSliderCountSameTime": 3,
+        "sceneCountLimit": 3,
+        "layoutCountLimit": 3
     },
     "obsStudioConfigPlus": {
         "audioCountLimit": 1000,
@@ -83,6 +85,8 @@
         "playingVideoCountSameTime": 3,
         "playingAudioCountSameTime": 5,
         "playingGifCountSameTime": 4,
-        "playingPictureSliderCountSameTime": 3
+        "playingPictureSliderCountSameTime": 3,
+        "sceneCountLimit": -1,
+        "layoutCountLimit": -1
     }
 }
