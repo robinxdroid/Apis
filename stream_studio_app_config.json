@@ -42,7 +42,7 @@
         "textSourceCountLimit": 10,
         "textSourceEnable": true,
         "uvcCameraSourceCountLimit": 5,
-        "uvcCameraSourceEnable": true,
+        "uvcCameraSourceEnable": false,
         "videoCountLimit": 1000,
         "videoSourceCountLimit": 5,
         "videoSourceEnable": true,
