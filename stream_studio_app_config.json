@@ -1,6 +1,6 @@
 {
     "obsStudioConfig": {
-        "pictureSourceCountLimit": 3,
+        "pictureSourceCountLimit": 5,
         "pictureSlideSourceCountLimit": 2,
         "videoSourceCountLimit": 2,
         "audioSourceCountLimit": 2,
