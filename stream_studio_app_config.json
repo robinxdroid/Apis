@@ -1,12 +1,12 @@
 {
     "obsStudioConfig": {
-        "pictureSourceCountLimit": 5,
+        "pictureSourceCountLimit": 8,
         "pictureSlideSourceCountLimit": 2,
-        "videoSourceCountLimit": 2,
-        "audioSourceCountLimit": 2,
-        "gifSourceCountLimit": 2,
-        "textSourceCountLimit": 2,
-        "colorSourceCountLimit": 2,
+        "videoSourceCountLimit": 3,
+        "audioSourceCountLimit": 3,
+        "gifSourceCountLimit": 3,
+        "textSourceCountLimit": 3,
+        "colorSourceCountLimit": 8,
         "streamSourceCountLimit": 1,
         "streamServerSourceCountLimit": 1,
         "cameraSourceCountLimit": 1,
@@ -49,10 +49,10 @@
         "supportPictureCrop": true,
         "playingStreamCountSameTime": 2,
         "playingStreamServerCountSameTime": 2,
-        "playingVideoCountSameTime": 2,
-        "playingAudioCountSameTime": 2,
-        "playingGifCountSameTime": 2,
-        "playingPictureSliderCountSameTime": 2
+        "playingVideoCountSameTime": 3,
+        "playingAudioCountSameTime": 5,
+        "playingGifCountSameTime": 4,
+        "playingPictureSliderCountSameTime": 3
     },
     "obsStudioConfigPlus": {
         "pictureSourceCountLimit": 100,
